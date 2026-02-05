@@ -56,10 +56,14 @@
         </plugins>
     </build>
     <distributionManagement>
-    <repository>
-        <id>nexus</id>
-        <url>https://nymphal-furzy-meggan.ngrok-free.dev/repository/maven-releases/</url>
-    </repository>
+    <repository>
+        <id>nexus</id>
+        <url>https://nymphal-furzy-meggan.ngrok-free.dev/repository/maven-releases/</url>
+    </repository>
+    <snapshotRepository>
+        <id>nexus</id>
+        <url>https://nymphal-furzy-meggan.ngrok-free.dev/repository/maven-snapshots/</url>
+    </snapshotRepository>
 </distributionManagement>
 
 
