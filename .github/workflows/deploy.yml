@@ -6,3 +6,4 @@
           server-id: nexus # <--- TRÈS IMPORTANT : doit matcher l'ID du pom.xml
           server-username: NEXUS_USER
           server-password: NEXUS_PASSWORD
+
