@@ -58,7 +58,7 @@
     <distributionManagement>
     <repository>
         <id>nexus</id>
-        <url>http://192.168.174.152:8081/repository/spring-releases/</url>
+        <url>https://nymphal-furzy-meggan.ngrok-free.dev/repository/spring-releases/</url>
     </repository>
 </distributionManagement>
 
